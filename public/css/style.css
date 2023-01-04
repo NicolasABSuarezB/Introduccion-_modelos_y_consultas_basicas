@@ -1,8 +1,9 @@
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
@@ -11,9 +12,11 @@ body {
 a {
   color: #00B7FF;
 }
-img{
+
+img {
   width: 100%;
 }
-figure{
+
+figure {
   width: 20%;
 }
